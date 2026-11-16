@@ -6,7 +6,7 @@ TomBio is a drug repositioning framework for drug–disease association predicti
 
 ## Framework
 
-[Overall framework of TomBio](TomBio_framework.svg)
+![Overall framework of TomBio](TomBio_Framework.svg)
 
 ## Environment
 
